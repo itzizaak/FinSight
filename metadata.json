@@ -1,0 +1,6 @@
+{
+  "name": "FinSight",
+  "description": "AI-Powered Financial Statement Analysis Platform. Help analysts, investors, and startup founders understand a company's financial health, ratios, and insights in under one minute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
